@@ -4,7 +4,7 @@
 ### **About Myself:**
  - 🚀 Data analysis and  Machine Learning Enthusiast from Chennai, India.
  - 🙍🏽‍♂️ Current: Looking for Internship in 2022.
- - 📦 I love to crack problems algorithmic as well as analytically.
+ - 📦 I love to crack algorithmic problems and I'm also in good in analytics.
 
 ### **Connect with me:**
 [<img align="left" alt="Omprakash | LinkedIn" height="30px" src="https://img.icons8.com/doodle/2x/linkedin--v2.png" />][linkedin]
