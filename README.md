@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi there 👋🏽, I'm Omprakash S.</h1>
 <h4 align="center"> 🚀 Full Stack Development ⚛ Machine Learning Enthusiast 🤖 from Chennai, India.</h4>
 
