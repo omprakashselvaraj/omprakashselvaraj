@@ -66,5 +66,5 @@
 
 [linkedin]: https://www.linkedin.com/in/omprakashselvaraj/
 [Medium]: https://musicianomprakash.medium.com/
-[gmail]: mailto:musicianomprakash@gmail.com
+[gmail]: mailto:omprakash.sr2410@gmail.com
 [whatsapp]: https://wa.me/918939638419
