@@ -1,10 +1,10 @@
 <h1 align="center">Hi there 👋🏽, I'm Omprakash S.</h1>
-<h4 align="center"> 🚀 Full Stack Development ⚛ Machine Learning Enthusiast 🤖 from Chennai, India.</h4>
+<h4 align="center"> 🚀 Machine Learning Enthusiast  ⚛ Data Science learner 🤖 from Chennai, India.</h4>
 
 ### **About Myself:**
- - 🚀 Data analysis and  Machine Learning Enthusiast from Chennai, India.
- - 🙍🏽‍♂️ Current: Looking for Internship in 2022.
- - 📦 I love to crack algorithmic problems and I'm also in good in analytics.
+ - 🚀 Machine Learning Engineering Enthusiast from Chennai, India.
+ - 🙍🏽‍♂️ Current: Pursuing final year of M.sc Decsion and Computing Sciences.
+ - 📦 I love to crack real life Machine learning and Natural language processing problems.
 
 ### **Connect with me:**
 [<img align="left" alt="Omprakash | LinkedIn" height="30px" src="https://img.icons8.com/doodle/2x/linkedin--v2.png" />][linkedin]
