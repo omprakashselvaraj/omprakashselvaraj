@@ -17,42 +17,42 @@
 
 ### Languages and Tools:
 
-[<code>
+[
 <img alt="Visual Studio Code" width="30px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
-</code>](https://code.visualstudio.com/)
-[<code>
+](https://code.visualstudio.com/)
+[
 <img alt="Flask" width="30px" src="https://cdn.freebiesupply.com/logos/large/2x/flask-logo-png-transparent.png" />
-</code>](https://flask.palletsprojects.com/en/2.0.x/)
-[<code>
+](https://flask.palletsprojects.com/en/2.0.x/)
+[
 <img alt="python" width="30px" src="https://img.icons8.com/color/240/000000/python.png">
-</code>](https://www.python.org/)
-[<code>
+](https://www.python.org/)
+[
 <img alt="R-Lang" width="30px" src="https://www.r-project.org/Rlogo.png">
-</code>](https://www.r-project.org/)
-[<code>
+](https://www.r-project.org/)
+[
 <img alt="Html5" width="30px" src="https://img.icons8.com/color/240/000000/html-5.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<code>
+](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[
 <img alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-</code>](https://dev.mysql.com/)
-[<code>
+](https://dev.mysql.com/)
+[
 <img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
-</code>](https://git-scm.com/)
-[<code>
+](https://git-scm.com/)
+[
 <img alt="Github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
-</code>](https://github.com/)
-[<code>
+](https://github.com/)
+[
 <img alt="cpp" width="26px" src="https://isocpp.org/assets/images/cpp_logo.png">
-</code>](https://isocpp.org/)
-[<code>
+](https://isocpp.org/)
+[
 <img alt="Mongodb" width="26px" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png">
-</code>](https://www.mongodb.com/)
-[<code>
+](https://www.mongodb.com/)
+[
 <img alt="Windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">
-</code>](https://www.microsoft.com/en-us/windows)
-[<code>
+](https://www.microsoft.com/en-us/windows)
+[
 <img alt="Ubuntu" width="26px" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png">
-</code>](https://ubuntu.com/)
+](https://ubuntu.com/)
 
 ---
 
